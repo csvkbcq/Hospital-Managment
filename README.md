@@ -1,5 +1,5 @@
 # Hospital-Managment
-I have created a Static webpage with the help of html,css & java script for the hospital management. I HAVE USED AZURE QNA MAKER, BOT SERVICE AND  STATIC WEB APP and embedded the chat bot into webpage and hosted it in azure.
+I have created a Static webpage with the help of html,css & java script for the hospital management and apointment booking. I HAVE USED AZURE QNA MAKER, BOT SERVICE AND  STATIC WEB APP and embedded the chat bot into webpage and hosted it in azure.
 
 You can Test my project here(My website link) : https://delightful-hill-024b8f810.1.azurestaticapps.net/
 
